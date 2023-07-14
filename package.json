@@ -1,0 +1,19 @@
+{
+  "name": "delegate-cash-helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node --transpile-only index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "delegatecash": "^0.4.6",
+    "ts-node": "^10.9.1",
+    "ethers": "5.7.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
